@@ -1,2 +1,9 @@
-.DS_Store
+#.DS_Store
 
+# .DS_Store 글로벌 적용 방법
+
+# echo .DS_Store >> /.gitignore_global
+# git config --global core.excludesfile /.gitignore_global
+
+
+# git 최상위 폴더에 이그노어 글로벌 파일 만들고 모두 적용해서 관리하기 
