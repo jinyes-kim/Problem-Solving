@@ -1,3 +1,3 @@
 # 할 수 있다.
 
-![곰](https://user-images.githubusercontent.com/54028026/124771812-6941ff80-df76-11eb-844d-b769f55ba167.png)
+![곰](https://user-images.githubusercontent.com/54028026/125081086-90c4d380-e100-11eb-8e45-12326b8dfbba.png)
